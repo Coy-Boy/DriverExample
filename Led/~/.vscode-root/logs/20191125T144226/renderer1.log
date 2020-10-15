@@ -1,5 +1,0 @@
-[2019-11-25 14:42:58.120] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
-    at X.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1024:594)
-    at X.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1022:917)
-    at Generator.next (<anonymous>)
-    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:399)
