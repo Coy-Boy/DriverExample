@@ -1,0 +1,1 @@
+cmd_/home/liuyang/Driver/led/chr_dev.ko := /usr/local/share/arm-none-linux-gnueabi-4.8.3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/liuyang/itop4412_bsp/scripts/module-common.lds --build-id  -o /home/liuyang/Driver/led/chr_dev.ko /home/liuyang/Driver/led/chr_dev.o /home/liuyang/Driver/led/chr_dev.mod.o

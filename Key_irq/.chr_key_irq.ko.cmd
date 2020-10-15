@@ -1,0 +1,1 @@
+cmd_/home/liuyang/Driver/key_irq/chr_key_irq.ko := /usr/local/share/arm-toolchain/bin/arm-none-linux-gnueabi-ld -EL -r  -T /opt/arm_file/iTop4412_Kernel_3.0/scripts/module-common.lds --build-id  -o /home/liuyang/Driver/key_irq/chr_key_irq.ko /home/liuyang/Driver/key_irq/chr_key_irq.o /home/liuyang/Driver/key_irq/chr_key_irq.mod.o

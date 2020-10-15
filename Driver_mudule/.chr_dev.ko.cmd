@@ -1,0 +1,1 @@
+cmd_/home/liuyang/Deriver/1st/chr_dev.ko := /usr/local/share/arm-toolchain/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/liuyang/iTop4412_Kernel_3.0/scripts/module-common.lds --build-id  -o /home/liuyang/Deriver/1st/chr_dev.ko /home/liuyang/Deriver/1st/chr_dev.o /home/liuyang/Deriver/1st/chr_dev.mod.o
