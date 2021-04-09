@@ -1,0 +1,1 @@
+1.this is a git commit --amend test file!
